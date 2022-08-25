@@ -1,0 +1,121 @@
+body
+{
+    font-family: 'Lato';
+}
+
+
+.left_article {
+    position:  absolute;
+    left: 3%;
+    width: 30%;
+    height: 950%;
+    background-color: #EAEAEA;
+    padding:20px;
+}
+
+
+h1 {
+    font-size: 6.5em;
+    letter-spacing: .1em;
+    padding-top: .6em;
+    padding-bottom: 0em;
+    margin: auto;
+}
+
+h2 {
+    font-size: 3.9em;
+    font-weight: normal;
+    letter-spacing: .3em;
+    margin: auto;
+}
+
+h3 {
+    font-size: 2em;
+    font-weight: normal;
+    letter-spacing: .18em;
+    padding-top: .5em;
+    margin: auto;
+}
+
+h4 {
+    font-size: 1.1em;
+    color: #F8F8F8;
+    letter-spacing: .05em;
+    padding: .5em;
+    padding-left: 1.5em;
+    background-color: #101010;
+}
+
+
+i {
+    margin-right: .6em;
+}
+
+p {
+    font-size: 1.1em;
+    margin: 1em auto;
+    text-align: justify;
+    text-justify: inter-word;
+    line-height:25px;
+}
+
+
+.portrait {
+    position:center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+.right_info {
+    position: absolute;
+    left: 36.5%;
+    width: 58%;
+    height: 950%;
+    background-color: #F5F5F5;
+    padding: 20px;
+}
+
+.sk {
+    padding-bottom: 1em;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+.progress {
+    width: 100%;
+    height: 11px;
+    background-color: #C6C6C6;
+    border-radius: 20px;
+    margin-top:.1em;
+}
+.progress-fill {
+    background-color: #454545;
+    border-radius: 20px;
+    height: 10px;
+}
+
+li{
+    padding-bottom:.5em;
+}
+
+
+.work{
+
+}
+.company{
+    margin:0px;
+    font-weight:bold;
+}
+.description {
+    margin-top:0;
+    margin-left:40px;
+    font-size:1em;
+    line-height:17px;
+}
+.course {
+    margin: 0px;
+    margin-left: 40px;
+    font-weight: bold;
+    line-height:20px;
+}
